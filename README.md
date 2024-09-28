@@ -1,5 +1,15 @@
 # PhilNITS
 
+https://philnits.org/review-38/
+
+## Sample Exams from ITPEC
+
+Information Technology Professionals Examination Council (ITPEC)
+
+1) https://itpec.org/pastexamqa/ip.html
+
+2) https://itpec.org/pastexamqa/fe.html
+
 ## Open Source Software License
 Copyright 2024 SYSON, MICHAEL B.
 
