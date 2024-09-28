@@ -10,6 +10,10 @@ Information Technology Professionals Examination Council (ITPEC)
 
 2) https://itpec.org/pastexamqa/fe.html
 
+## Goal
+
+<img src="https://github.com/usbong/philnits/blob/main/res/usbongPassExamGetHighValueWorkV2024.gif" width="80%">
+
 ## Open Source Software License
 Copyright 2024 SYSON, MICHAEL B.
 
